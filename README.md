@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Cam
 
-<!--
-**camtucker/camtucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Scientist focusing on applied AI
 
-Here are some ideas to get you started:
+📍 **Los Angeles**  
+📧 **Email:** [contact@camtucker.com](mailto:contact@camtucker.com)  
+🔗 **LinkedIn:** [tuckercameron](https://linkedin.com/in/tuckercameron)  
+👨‍💻 **GitHub:** [camtucker](https://github.com/camtucker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 📝
+10+ years of experience in tech designing and implementing data warehouses,
+deploying machine learning models, creating impactful data products and insights.
+
+### Skillset 🛠️
+- **Languages:** Python, SQL, JavaScript, Ruby
+- **Tools:** AWS, GCP, Docker, Git, Tableau
+- **Specialties:** LLMs, Generative AI
+
+### Education 🎓
+- **Bachelors in Systems Engineering**, George Washington University
+
+🔗 Reach out to collaborate or chat! 
