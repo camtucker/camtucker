@@ -12,7 +12,7 @@
 deploying machine learning models, creating impactful data products and insights.
 
 ### Skillset 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
+- **Languages:** Python, SQL
 - **Tools:** AWS, GCP, Docker, Git, Tableau
 - **Specialties:** LLMs, Generative AI
 
