@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cam
+# 👋 Hello, I'm Cameron
 
 ## 🚀 Data Scientist focusing on applied AI
 
