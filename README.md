@@ -9,7 +9,7 @@
 
 ### About Me 📝
 10+ years of experience in tech designing and implementing data warehouses,
-deploying machine learning models, creating impactful data products and insights.
+deploying machine learning models, and creating impactful data products and insights.
 
 ### Skillset 🛠️
 - **Languages:** Python, SQL
